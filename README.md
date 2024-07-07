@@ -8,4 +8,4 @@ Snippet (Vorlage) zum erstellen eines clips mit Streamerbot. Plus Chat Nachricht
 
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
 
-[Screenshot](https://github.com/Designbynorman/Twitch-Clip-Nachricht-im-Chat-Nachricht-via-Discord/blob/main/clip.png)
+![Screenshot](https://github.com/Designbynorman/Twitch-Clip-Nachricht-im-Chat-Nachricht-via-Discord/blob/main/clip.png)
