@@ -13,3 +13,11 @@ Snippet (Vorlage) zum erstellen eines Clips mit Streamerbot. Plus Chat Nachricht
 ![Screenshot](https://github.com/Designbynorman/Twitch-Clip-Nachricht-im-Chat-Nachricht-via-Discord/blob/main/clip.png)
 
 [Snippet](https://github.com/Designbynorman/Twitch-Clip-Nachricht-im-Chat-Nachricht-via-Discord/blob/main/Snippet)
+
+[DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
+
+[DesignbyNorman on Youtube](https://www.youtube.com/@DesignbyNorman)
+
+[Playlist on Youtube](https://www.youtube.com/playlist?list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM)
+
+[On X](https://x.com/Designbynorman)
