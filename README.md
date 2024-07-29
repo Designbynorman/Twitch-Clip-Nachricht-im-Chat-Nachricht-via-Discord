@@ -8,6 +8,9 @@ Snippet (Vorlage) zum erstellen eines Clips mit Streamerbot. Plus Chat Nachricht
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
+![Zeitstempel](
+https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
+
 [Discord webhook](https://www.designbynorman.com/streamerbot/) 
 
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
