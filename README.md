@@ -4,6 +4,10 @@ Mit dem Befehl !clip einen Clip erstellen.
 
 Snippet (Vorlage) zum erstellen eines Clips mit Streamerbot. Plus Chat Nachricht ausgegeben, optional auch an den Discord. Hier muss lediglich die webhook URL angepasst werden. 
 
+Snippet beinhaltet
+
+1* Action 1* Trigger 1* Sub-Action 1* Command (nicht aktiv)
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
