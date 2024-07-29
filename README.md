@@ -2,7 +2,7 @@ Twitch Clip + Nachricht im Chat + Nachricht via Discord
 
 Mit dem Befehl !clip einen Clip erstellen.
 
-Snippet (Vorlage) zum erstellen eines Clips mit dem Streamerbot. Plus Chat Nachricht ausgegeben, optional auch an den Discord. Hier muss lediglich die webhook URL angepasst werden. 
+Snippet (Vorlage) zum erstellen eines Clips mit dem Streamerbot. Eine Nachricht wird in den Chat gesendet, optional auch an einem Discord Kanal. Hier muss lediglich die webhook URL angepasst werden. 
 
 Snippet beinhaltet
 
