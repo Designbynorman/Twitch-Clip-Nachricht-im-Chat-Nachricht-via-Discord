@@ -1,5 +1,7 @@
 Twitch Clip + Nachricht im Chat + Nachricht via Discord
 
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
+
 Mit dem Befehl !clip einen Clip erstellen.
 
 Snippet (Vorlage) zum erstellen eines Clips mit dem Streamerbot. Eine Nachricht wird in den Chat gesendet, optional auch an einem Discord Kanal. Hier muss lediglich die webhook URL angepasst werden. 
